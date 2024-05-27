@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yzF5x
+- 👋 Hi, I’m @yzF5x.
 - 👀 I’m interested in OS/Computer Architecture/Computer Network. 
 - 🌱 Nice to meet me.
 
